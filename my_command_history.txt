@@ -1,0 +1,15 @@
+14-04-2025 20:12:51  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+14-04-2025 20:12:54  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+14-04-2025 20:13:40  338  python -m venv .env
+14-04-2025 20:13:55  340  source .env/Scripts/activate
+14-04-2025 20:17:12  341  pip install django
+14-04-2025 20:18:50  338  git add .gitignore 
+14-04-2025 20:19:03  339  git commit -am"add .gitignore file"
+14-04-2025 20:19:09  340  git push
+14-04-2025 20:19:56  342  pip install -r requirements.txt 
+14-04-2025 20:20:41  343  python.exe -m pip install --upgrade pip
+14-04-2025 20:20:55  344  pip list
+14-04-2025 20:21:02  345  django-admin -v
+14-04-2025 20:21:07  346  django-admin --version
+14-04-2025 20:21:23  347  pip install django
+14-04-2025 20:22:00  348  git add .

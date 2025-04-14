@@ -13,3 +13,10 @@
 14-04-2025 20:21:07  346  django-admin --version
 14-04-2025 20:21:23  347  pip install django
 14-04-2025 20:22:00  348  git add .
+14-04-2025 20:22:01  349  git commit -am "."
+14-04-2025 20:22:05  350  git push
+14-04-2025 20:22:26  351  django-admin startproject DjangoAWS
+14-04-2025 20:23:25  352  ls
+14-04-2025 20:23:54  353  python manage.py runserver
+14-04-2025 20:24:31  354  python manage.py migrate
+14-04-2025 20:28:39  355  git add .

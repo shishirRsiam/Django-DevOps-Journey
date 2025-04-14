@@ -20,3 +20,7 @@
 14-04-2025 20:23:54  353  python manage.py runserver
 14-04-2025 20:24:31  354  python manage.py migrate
 14-04-2025 20:28:39  355  git add .
+14-04-2025 20:28:40  356  git commit -am "DjangoAWS Project initialize done"
+14-04-2025 20:28:45  357  git push
+14-04-2025 20:38:14  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+14-04-2025 20:38:28  338  git add .

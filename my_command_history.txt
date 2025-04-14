@@ -29,3 +29,11 @@
 14-04-2025 23:29:09  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 14-04-2025 23:29:09  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 14-04-2025 23:29:34  338  git add .
+14-04-2025 23:29:37  339  git commit -am "update ALLOWED_HOSTS"
+14-04-2025 23:29:43  340  git push
+14-04-2025 23:43:23  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+14-04-2025 23:43:25  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+14-04-2025 23:47:15  338  docker compose up
+14-04-2025 23:56:05  339  docker compose up
+14-04-2025 23:56:11  340  docker compose down
+14-04-2025 23:56:41  341  git add .
